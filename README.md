@@ -1,4 +1,8 @@
-# [JSL01] Submission: Syntax-Engine Interaction Challenge
+# Virtual Pet Adoption 
+This project entails creating a virtual pet adoption web page. The starter code container the html, css and part of the Javascript code. The task was to write the logic for the pet adoption details user name. The only accepted format for the username is "pet_" followed by a combination of letters and numbers, the function must validate the syntax of each string submitted. 
+
+
+# [JSL01] Submission Guidelines: Syntax-Engine Interaction Challenge
 
 You will: 
 1. Use the Starter Code Repo, 
